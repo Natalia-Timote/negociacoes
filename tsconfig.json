@@ -3,6 +3,7 @@
         "target": "ES6",
         "outDir": "./dist/js/",
         "rootDir": "./app/",
-        "noEmitOnError": true
+        "noEmitOnError": true,
+        "noImplicitAny": true
     }
 }
