@@ -12,7 +12,7 @@ Este projeto foi desenvolvido durante o curso da Alura:
 
 * "TypeScript Parte 1: Evoluindo seu JavaScript"
 
-Com o **Negociações**, apliquei **TypeScript** para evoluir um script JavaScript tradicional, trazendo **tipagem estática, compilação e modularização**, além de modelar classes de negócio de forma mais robusta.
+Com o **Negociações**, apliquei **TypeScript** para evoluir um script JavaScript tradicional, trazendo **tipagem estática, compilação e modularização**, além de modelar classes de forma mais robusta.
 
 ## 📚 Objetivos do Curso
 
